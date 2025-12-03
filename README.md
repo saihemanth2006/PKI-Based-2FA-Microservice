@@ -20,7 +20,7 @@ Fully reproducible deterministic seed flow
 
 1. Repository Information
 GitHub Repository
-https://github.com/Shamshuu/pki-2fa--24A95A1211
+https://github.com/saihemanth2006/PKI-Based-2FA-Microservice.git
 
 
 This URL was also used for:
